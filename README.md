@@ -1,7 +1,7 @@
 # ChemicalFingerprints
 
 
-This is a simple java package that uses [CDK](http://ww) library to extract fingerprint representations of chemicals from their SMILES strings.
+This is a simple java package that uses [CDK](https://cdk.github.io/) library to extract fingerprint representations of chemicals from their SMILES strings.
 
 ## How to use?
 
@@ -15,7 +15,7 @@ ID <tab> SMILES
 
 
 ## Fingerprints
-*  [Fingerprinter](http://)  0
-*  [PubchemFingerprint](http://) 1
-*  [MACCS](http://) 2
-*  [ExtendedFingerprint](http://a) 3
+*  [Fingerprinter](https://cdk.github.io/)  0
+*  [PubchemFingerprint](https://cdk.github.io/) 1
+*  [MACCS](https://cdk.github.io/) 2
+*  [ExtendedFingerprint](https://cdk.github.io/) 3
