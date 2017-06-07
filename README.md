@@ -11,7 +11,8 @@ java -jar fingerptinter.jar "test.txt" 2 (for Pubchem)
 
 format your input file as,
 
-ID <tab> SMILES
+ID < tab > SMILES
+ID < tab > SMILES
 
 
 ## Fingerprints
