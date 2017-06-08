@@ -7,7 +7,7 @@ This is a simple java package that uses [CDK](https://cdk.github.io/) library to
 
 java -jar fingerprinter.jar inputfile option
 
-java -jar fingerptinter.jar "test.txt" 2 (for Pubchem) 
+java -jar fingerptinter.jar test.txt 1 (for Pubchem) 
 
 format your input file as,
 
