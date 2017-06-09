@@ -1,3 +1,4 @@
 CHEMBL1435	Cc1nnc(SCC2=C(N3[C@H](SC2)[C@H](NC(=O)Cn4cnnn4)C3=O)C(=O)O)s1
 CHEMBL44354	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(=C(N2C1=O)C(=O)[O-])C[n+]3ccccc3)\c4csc(N)n4)C(=O)O
 CHEMBL996	CO[C@]1(NC(=O)Cc2cccs2)[C@H]3SCC(=C(N3C1=O)C(=O)O)COC(=O)N
+CHEMBL2367892	CC(=O)N[C@H]1[C@@H](O)[C@H](O)[C@H](CO)O[C@H]1O[C@H]2[C@@H]3NC(=O)[C@H](NC(=O)[C@@H]4NC(=O)[C@H]5NC(=O)[C@@H](Cc6ccc(Oc7cc4cc(Oc8ccc2cc8Cl)c7O[C@@H]9O[C@@H](CO)[C@@H](O)[C@H](O)[C@@H]9NC(=O)C)c(Cl)c6)NC(=O)[C@H](N)c%10ccc(O)c(Oc%11cc(O)cc5c%11)c%10)c%12ccc(O)c(c%12)c%13c(O[C@H]%14O[C@H](CO)[C@@H](O)[C@@H](O)[C@@H]%14O)cc(O)cc%13[C@H](NC3=O)C(=O)O
